@@ -1,0 +1,2 @@
+
+![[~Medical Supplies.png]]

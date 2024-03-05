@@ -1,0 +1,2 @@
+
+![[~Fire Skill Fruit.png]]
