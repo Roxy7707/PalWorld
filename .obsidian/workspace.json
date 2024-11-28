@@ -4,22 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "a3b2aea510f196c1",
+        "id": "aebe6698041b2611",
         "type": "tabs",
         "children": [
           {
-            "id": "2d2035334813f1a7",
+            "id": "b744013dd7a24964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shared Notes/Evan Notes.md",
-                "mode": "preview",
+                "file": "Pals/Paldeck/076B Wixen Noct.md",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "076B Wixen Noct"
             }
           }
         ]
+      },
+      {
+        "id": "e10ddc8f36f1d21f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eb9e8f5e0b6a291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Notes/Work that needs done.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Work that needs done"
+            }
+          },
+          {
+            "id": "80994af7079b06b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Notes/Evan Notes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evan Notes"
+            }
+          },
+          {
+            "id": "6b4938ff92423504",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +86,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +103,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +146,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Evan Notes"
             }
           },
           {
@@ -105,7 +160,9 @@
                 "file": "Shared Notes/Evan Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Evan Notes"
             }
           },
           {
@@ -116,7 +173,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +185,9 @@
               "type": "outline",
               "state": {
                 "file": "Shared Notes/Evan Notes.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Evan Notes"
             }
           }
         ]
@@ -140,20 +201,55 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "completed-task-display:Task Hider": false
     }
   },
-  "active": "2d2035334813f1a7",
+  "active": "80994af7079b06b8",
   "lastOpenFiles": [
-    "Shared Notes/Owen Catch Progress.md",
-    "Shared Notes/Evan Notes.md",
-    "Shared Notes/Evan Catch Progress.md",
+    "~Templates/~Catch Progress Template.md",
+    "Personal Notes/Evan Notes.md",
+    "Pals/Paldeck/081B Kelpsea Ignis.md",
+    "Personal Notes/Work that needs done.md",
+    "Items/Ores/Meteorite Fragment.md",
+    "Items/Resources/Bone.md",
+    "Items/Resources/Cotton Candy.md",
+    "Items/Resources/Egg.md",
+    "Pals/Status/Incapacitated.md",
+    "Pals/Status/Starving.md",
+    "Pals/Status/Sick.md",
+    "Pals/Status/Cold.md",
+    "Pals/Paldeck/101B Jormuntide Ignis.md",
+    "Pals/Paldeck/076B Wixen Noct.md",
+    "Pals/Elements/Dark.md",
+    "Pals/Paldeck/077 Verdash.md",
+    "Pals/Paldeck/050 Beegarde.md",
+    "Pals/Paldeck/051 Elizabee.md",
+    "Pals/Paldeck/120 Knocklem.md",
+    "Pals/Paldeck/121 Yakumo.md",
+    "Pals/Paldeck/122 Dogen.md",
+    "Pals/Paldeck/123 Dazemu.md",
+    "Pals/Paldeck/124 Mimog.md",
+    "Pals/Paldeck/125 Xenovader.md",
+    "Pals/Paldeck/126 Xenogard.md",
+    "Items/Ores/Pure Quartz.md",
+    "~Photos/~Pals/~Paldeck/~Knocklem.png",
+    "~Photos/~Pals/~Paldeck/~Xenogard.png",
+    "~Photos/~Pals/~Paldeck/~Xenovader.png",
+    "~Photos/~Pals/~Paldeck/~Mimog.png",
+    "~Photos/~Pals/~Paldeck/~Dazemu.png",
+    "~Photos/~Pals/~Paldeck/~Dogen.png",
+    "~Photos/~Pals/~Paldeck/~Yakumo.png",
+    "~Photos/~Pals/~Paldeck/~Prixter.png",
+    "~Photos/~Pals/~Paldeck/~Sootseer.png",
+    "~Photos/~Pals/~Paldeck/~Kikit.png",
+    "Items/Resources",
+    "Untitled.canvas",
     "~Templates",
     "Shared Notes",
-    "Other.md",
-    "Notes"
+    "Personal Notes"
   ]
 }

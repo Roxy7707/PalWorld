@@ -1,6 +1,7 @@
 
 ![[~Dark.png|40]]
-![[~Shadowbeak.png]]
+![[~Shadowbeak.png|200]]
 **Partner Skill**
 Modified DNA
-- Increases the Dark damage dealt by the player and Shadowbeak while mounted. Enables Shadowbeak to be mounted.
+- Can be ridden as a flying mount.
+- Enhances [[Dark]] attacks while mounted.

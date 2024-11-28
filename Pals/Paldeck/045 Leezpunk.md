@@ -1,3 +1,6 @@
 
 ![[~Dark.png|40]]
-![[~Leezpunk.png]]
+![[~Leezpunk.png|200]]
+**Partner Skill**
+Sixth Sense
+- When activated, utilizes its sixth sense to detect nearby dungeons.

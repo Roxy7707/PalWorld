@@ -1,6 +1,6 @@
 
 ![[~Neutral.png|40]]
-![[~Chikipi.png]]
+![[~Chikipi.png|200]]
 **Partner Skill**
 Egg Layer
-- When assigned to the Ranch, Chikipi produces Eggs.
+- Sometimes lays an [[Egg]] when assigned to Ranch.

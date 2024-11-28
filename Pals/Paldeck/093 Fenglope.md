@@ -1,3 +1,7 @@
 
 ![[~Neutral.png|40]]
-![[~Fenglope.png]]
+![[~Fenglope.png|200]]
+**Partner Skill**
+Wind and Clouds
+- Can be ridden.
+- Can double jump while mounted.

@@ -1,3 +1,3 @@
 
-**Action**
-- ![[Low Grade Medical Supplies]]
+## Fix
+![[Low Grade Medical Supplies]]
